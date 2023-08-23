@@ -12,7 +12,7 @@ _Team 4 Backend A_
 
 ## ERD
 
-<img width="800" alt="ERD" src="https://github.com/second-hand-team-04/second-hand-max-be-a/assets/105152276/c149a55b-6b25-42bc-ba58-2ae7c254fbfc"/>
+<img width="800" alt="ERD" src="https://github.com/second-hand-team-04/second-hand-max-be-a/assets/105152276/d4b60e13-916e-4498-9ed0-b83a1e13ebc6"/>
 
 <br/>
 <br/>
