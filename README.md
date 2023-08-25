@@ -37,4 +37,4 @@ _Team 4 Backend A_
 
 ## Frontend Repository
 
-[second-hand-max-be-fe]()
+[second-hand-max-be-fe](https://github.com/second-hand-team-04/second-hand-max-fe)
